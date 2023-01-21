@@ -20,6 +20,10 @@ a {
     font-size: 16px;
     color: aquamarine;
 }
-footer {
+footer p {
+     font-size: 16px;
     text-align: right;
+}
+div {
+    padding-bottom: 10px;
 }
